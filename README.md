@@ -26,7 +26,7 @@ Remove eyeglasses from face images using a simple Variational Autoencoder (VAE).
 ---
 
 ## 📸 範例結果 | Sample Result
-
+![image](https://github.com/user-attachments/assets/add3bef3-a306-461c-b0ba-c9694d8aff4c)
 
 
 ---
