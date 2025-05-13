@@ -43,5 +43,5 @@ Remove eyeglasses from face images using a simple Variational Autoencoder (VAE).
 
 
 ### 😅 開發者內心話｜Self-Roast Corner
-我也不知道他為什麼這麼醜...如果你有辦法怎麼讓他變漂亮請告訴我:)
-No idea why it’s this ugly.  If you can make it prettier, you’re officially my hero.
+- 我也不知道他為什麼這麼醜...如果你有辦法怎麼讓他變漂亮請告訴我:)
+- No idea why it’s this ugly.  If you can make it prettier, you’re officially my hero.
