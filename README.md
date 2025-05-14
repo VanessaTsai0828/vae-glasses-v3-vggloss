@@ -1,4 +1,4 @@
-# vae-remove-glasses
+# 🕶️ VAE Glasses Removal – VGG Perceptual Loss
 Remove eyeglasses from face images using a simple Variational Autoencoder (VAE).
 
 > 📚 系列作品｜Project Series:
