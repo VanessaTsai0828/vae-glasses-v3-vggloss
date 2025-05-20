@@ -2,10 +2,10 @@
 Remove eyeglasses from face images using a simple Variational Autoencoder (VAE).
 
 > 📚 系列作品｜Project Series:
-> - [Part 1: Basic VAE](https://github.com/VanessaTsai0828/vae-remove-glasses)
-> - [Part 2: Grayscale VAE](https://github.com/VanessaTsai0828/vae-remove-glasses-gray)
-> - [Part 3: VAE with VGG loss](https://github.com/VanessaTsai0828/vae-remove-glasses-vgg)
-> - [Part 4: VAE-GAN](https://github.com/VanessaTsai0828/vae-remove-glasses-gan)
+> - [Part 1: Baseline VAE](https://github.com/VanessaTsai0828/vae-glasses-v1-baseline)
+> - [Part 2: Grayscale VAE](https://github.com/VanessaTsai0828/vae-glasses-v2-grayinput)
+> - [Part 3: VAE with VGG Loss](https://github.com/VanessaTsai0828/vae-glasses-v3-vggloss)
+> - [Part 4: Stylized Output VAE](https://github.com/VanessaTsai0828/vae-glasses-v4-stylized)
 
 ---
 
