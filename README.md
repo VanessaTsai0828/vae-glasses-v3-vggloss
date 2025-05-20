@@ -11,13 +11,13 @@ Remove eyeglasses from face images using a simple Variational Autoencoder (VAE).
 
 ## 🧠 專案內容 | What’s Inside
 
-- 使用 CNN 架構的變分自編碼器，加入 VGG16 感知損失
+- 使用 CNN 架構的變分自編碼器，加入 VGG19 感知損失
 - 訓練資料為 160x160 的 RGB 臉部影像（有/無眼鏡）
 - 更能保留個人特徵、臉部結構與風格
 - 損失函數組合為：重建誤差、KL 散度、特徵感知誤差
 - 輸出結果為更擬真的去眼鏡臉部影像
 
-- CNN-based Variational Autoencoder with **VGG16 perceptual loss**
+- CNN-based Variational Autoencoder with **VGG19 perceptual loss**
 - Trained on 160x160 RGB face images (with/without glasses)
 - Better retains facial identity, structure, and style
 - Combines reconstruction loss, KL divergence, and feature-wise perceptual loss
